@@ -8,7 +8,11 @@ Features
 * **Safety First**: Includes a "Strategy B" execution test for Python scripts.
 * **Complexity Analysis**: Dynamic Time/Space complexity reports.
 
-Greencode Analyser Tool Example Screenshots
-1.code optimizer oroginal.png
-2.optimised code1.png
-3.optimised code2.png
+### 📸 Screenshots
+
+#### Original Code
+![Original Code](code%20optimizer%20original.png)
+
+#### Optimized Results
+![Optimized 1](optimised%20code1.png)
+![Optimized 2](optimized%20code2.png)
