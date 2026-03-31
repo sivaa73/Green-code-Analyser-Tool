@@ -11,8 +11,8 @@ Features
 ### 📸 Screenshots
 
 #### Original Code
-![Original Code](code%20optimizer%20original.png)
+<img width="1366" height="642" alt="code optimizer original" src="https://github.com/user-attachments/assets/63e7ece1-d9c6-42b5-80ce-df3a452c0942" />
 
 #### Optimized Results
-![Optimized 1](optimised%20code1.png)
-![Optimized 2](optimized%20code2.png)
+<img width="1364" height="644" alt="optimized code2" src="https://github.com/user-attachments/assets/b77089e0-ddcc-4f76-b972-1565dee257ee" />
+<img width="1366" height="646" alt="optimised code1" src="https://github.com/user-attachments/assets/eb0d754d-24f2-4851-8a16-c23b89607fa0" />
