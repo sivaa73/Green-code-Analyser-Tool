@@ -8,6 +8,8 @@ from dotenv import load_dotenv
 load_dotenv()
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
+client = Groq(api_key=GROQ_API_KEY)
+
 # Check if key loaded correctly
 if not GROQ_API_KEY:
     print("❌ Error: GROQ_API_KEY not found in .env file!")
